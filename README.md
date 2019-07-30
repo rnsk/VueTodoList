@@ -1,4 +1,4 @@
-# vue_crash_todolist
+# Vue TodoList
 
 ## Project setup
 ```
